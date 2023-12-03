@@ -1,6 +1,6 @@
 ﻿using SqLiteSample.Data.Models;
 
-namespace SqLiteSample.Data.Repositories.Contacts
+namespace SqLiteSample.Data.Repositories.Contracts
 {
     public interface IProductRepository
     {

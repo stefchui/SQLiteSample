@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using SqLiteSample.Data.Models;
-using SqLiteSample.Data.Repositories.Contacts;
+using SqLiteSample.Data.Repositories.Contracts;
 using System.Net;
 
 namespace SqLiteSample.Api.Controllers

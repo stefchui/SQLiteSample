@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using SqLiteSample.Data.DataContexts;
 using SqLiteSample.Data.Models;
-using SqLiteSample.Data.Repositories.Contacts;
+using SqLiteSample.Data.Repositories.Contracts;
 
 namespace SqLiteSample.Data.Repositories
 {

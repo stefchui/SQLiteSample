@@ -2,7 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
 using SqLiteSample.Data.DataContexts;
 using SqLiteSample.Data.Repositories;
-using SqLiteSample.Data.Repositories.Contacts;
+using SqLiteSample.Data.Repositories.Contracts;
 
 var builder = WebApplication.CreateBuilder(args);
 
